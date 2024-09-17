@@ -1,5 +1,5 @@
 # EODP-project
-ass2 sjdkajdks
+ass2
 
 Focus on the Provided Datasets: Review the available datasets (e.g., Victorian Communities, EGM, Houses by Suburb, LGA Offences) to identify patterns, trends, or anomalies. A good research topic will emerge from understanding these data sources. 我们先仔细看看作业提供的数据集，比如维多利亚社区、电子赌博机（EGM）、房价和LGA犯罪数据。这些数据是我们研究课题的出发点，我们可以从中找到一些有意思的现象或问题来开展研究。
 
