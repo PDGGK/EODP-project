@@ -1,0 +1,24 @@
+### Group Members
+Sheldon Liu 1455927
+ZIHAN DAI 1488802
+Jiahao Ni 1455828
+Phone Moe Thway 1342981
+
+### Notes
+Zoom in into the graph for more visual clarity
+
+The version of python we use is 3.12.4
+
+### Data Sources
+To run the code, please make sure code.ipynb and data sources are in the same folder
+
+
+Although code run without error on our end, when you as the assessor download code on your device, factors like different operating system may cause some technical issues.
+
+
+Please send email if any issue exists: jiahaon1@student.unimelb.edu.au
+
+
+### Code Entry Point: code.ipynb
+
+### For Both Code and report, it is recommended to zoom in the graphs for more clarity.

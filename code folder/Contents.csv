@@ -1,0 +1,26 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,Contents,
+,Table 01,"Offences recorded and rate per 100,000 population by police region and local government area - January 2014 to December 2023"
+,Table 02,"Offences recorded and rate per 100,000 population by offence type, local government area and police service area - January 2014 to December 2023"
+,Table 03,"Offences recorded by offence type, local government area and postcode or suburb/town - January 2014 to December 2023"
+,Table 04,Offences recorded by location type and local government area - January 2014 to December 2023
+,Table 05,Offences recorded by investigation status and local government area - January 2014 to December 2023
+,Table 06,Select drug offences by drug type and local government area - January 2014 to December 2023
+,,
+,Data exclusions,
+,Table 01 excludes recorded offences where the geographic location is unknown. For further information of these geographic locations please refer to the Explanatory Notes and Glossary on the website.,
+,"Tables 02 - 06 excludes recorded offences at Justice institutions and immigration facilities, Unincorporated Victoria and where the geographic location is unknown. For further information of these geographic locations please refer to the Explanatory Notes and Glossary on the website.",
+,,
+,Notes,
+,"Recorded crime statistics are based on data extracted by Victoria police on the 18th day after the reference period, and are subject to movement between releases. For more information about how statistics are compiled, refer to the Explanatory notes on the CSA website.",
+,"In order to maintain confidentiality, sensitive offence counts for subdivisions 'A10 Homicide and related offences' and 'A30 Sexual offences' with a value of 3 or less are given a value of 2 to calculate totals.",
+,Rates are based on populations provided by the Australian Bureau of Statistics (ABS). The most recent year of data was not available from the ABS in time for it to be used to calculate current year rates. The CSA uses estimates created by the Victorian State Government 'Victoria in Futures' report. ,
+,This work is licenced under a Creative Commons Attribution 4.0 International License. When reporting this data you must attribute the Crime Statistics Agency (or CSA) as the source.,
